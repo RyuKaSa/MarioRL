@@ -13,8 +13,10 @@ Mario plays the game after 5,000,000 frames of training. The training took 9 day
 # links :
 
 Cloud CPU :
-Oracle Cloud Free Tier
+
+ - Oracle Cloud Free Tier
 
 Mario Video :
-https://pypi.org/project/gym-super-mario-bros/
+
+ - https://pypi.org/project/gym-super-mario-bros/
 ----------------------
