@@ -7,7 +7,7 @@ Mario plays the game after 2,500,000 frames of training. The training took 4 day
 ----------------------
 Mario plays the game after 5,000,000 frames of training. The training took 9 days on a cloud CPU.
 
-![Mario playing the game](Images/model_5000000.gif)
+![Mario playing the game](Images/model_4700000.gif)
 
 ----------------------
 # resources :
